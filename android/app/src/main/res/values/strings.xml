@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chamber</string>
+    <string name="facebook_app_id">616192912975310</string>
+    <string name="fb_login_protocol_scheme">217f9cc803c2313ffce55097c5e85022</string>
+</resources>
